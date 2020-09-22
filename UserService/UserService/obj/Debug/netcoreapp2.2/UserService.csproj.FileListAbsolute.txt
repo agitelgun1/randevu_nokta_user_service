@@ -1,0 +1,20 @@
+/Users/agit/Documents/Personal/Work Area/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.csprojAssemblyReference.cache
+/Users/agit/Documents/Personal/Work Area/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.csproj.CoreCompileInputs.cache
+/Users/agit/Documents/Personal/Work Area/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.RazorAssemblyInfo.cache
+/Users/agit/Documents/Personal/Work Area/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.RazorAssemblyInfo.cs
+/Users/agit/Documents/Personal/Work Area/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.AssemblyInfoInputs.cache
+/Users/agit/Documents/Personal/Work Area/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.AssemblyInfo.cs
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/bin/Debug/netcoreapp2.2/UserService.deps.json
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/bin/Debug/netcoreapp2.2/UserService.runtimeconfig.json
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/bin/Debug/netcoreapp2.2/UserService.runtimeconfig.dev.json
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/bin/Debug/netcoreapp2.2/UserService.dll
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/bin/Debug/netcoreapp2.2/UserService.pdb
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.csprojAssemblyReference.cache
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.csproj.CoreCompileInputs.cache
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.RazorAssemblyInfo.cache
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.RazorAssemblyInfo.cs
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.AssemblyInfoInputs.cache
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.AssemblyInfo.cs
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.RazorTargetAssemblyInfo.cache
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.dll
+/Users/agit/Documents/Personal/RandevuNokta/Service/UserService/UserService/obj/Debug/netcoreapp2.2/UserService.pdb
